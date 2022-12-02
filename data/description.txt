@@ -1,0 +1,1 @@
+This folder contains any data files that will be processed by "train.py" in the source file
